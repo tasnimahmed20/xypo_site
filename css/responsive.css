@@ -1,0 +1,1142 @@
+@media screen and (min-width:320px) and (max-width:374px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 250px;
+    }
+    .header-text {
+        max-width: 95%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 12px 20px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding: 50px 25px 0;
+        display: inline-block;
+    }
+    .about-text h1 {
+        font-size: 25px;
+    }
+    .about-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 15px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text h1 {
+        font-size: 24px;
+    }
+    .course-text p {
+        font-size: 15px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 40px;
+    }
+    .offer-text h1 {
+        font-size: 18px;
+    }
+    .offer-text p {
+        font-size: 16px;
+    }
+    .course-text p {
+        font-size: 15px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    .btn-box button {
+        padding: 6px 16px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    hr {
+        width: 100%;
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:375px) and (max-width:424px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 320px;
+    }
+    .header-text {
+        max-width: 95%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 12px 20px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 25px;
+    }
+    .about-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 15px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 95%;
+    }
+    .course-text h1 {
+        font-size: 24px;
+    }
+    .course-text p {
+        font-size: 15px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 18px;
+    }
+    .offer-text p {
+        font-size: 16px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    .btn-box button {
+        padding: 6px 16px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    hr {
+        width: 90%
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:425px) and (max-width:500px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 350px;
+    }
+    .header-text {
+        max-width: 95%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 12px 20px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 25px;
+    }
+    .about-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 15px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 95%;
+    }
+    .course-text h1 {
+        font-size: 24px;
+    }
+    .course-text p {
+        font-size: 15px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 18px;
+    }
+    .offer-text p {
+        font-size: 16px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    .btn-box button {
+        padding: 14px 16px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:501px) and (max-width:580px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 450px;
+    }
+    .header-text {
+        max-width: 95%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 25px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 12px 20px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 25px;
+    }
+    .about-text p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 15px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .feature-col p {
+        font-size: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 95%;
+    }
+    .course-text h1 {
+        font-size: 25px;
+    }
+    .course-text p {
+        font-size: 18px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 22px;
+    }
+    .offer-text p {
+        font-size: 18px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    .btn-box button {
+        padding: 16px 20px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-row {
+        text-align: center;
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:581px) and (max-width:666px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 550px;
+    }
+    .header-text {
+        max-width: 95%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 33px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 15px 32px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 28px;
+    }
+    .about-text p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 15px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .feature-col p {
+        font-size: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 95%;
+    }
+    .course-text h1 {
+        font-size: 25px;
+    }
+    .course-text p {
+        font-size: 18px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 22px;
+    }
+    .offer-text p {
+        font-size: 18px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    .btn-box button {
+        padding: 16px 20px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    hr {
+        width: 90%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-row {
+        text-align: center;
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:667px) and (max-width:767px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 675px;
+    }
+    .header-text {
+        max-width: 90%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 41px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 22px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 16px 32px;
+    }
+    .social-icons img {
+        width: 15px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 25px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 30px;
+    }
+    .about-text p {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .about-text h2 {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 18px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .feature-col p {
+        font-size: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 95%;
+    }
+    .course-text h1 {
+        font-size: 25px;
+    }
+    .course-text p {
+        font-size: 18px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 25px;
+    }
+    .offer-text h1 {
+        font-size: 24px;
+    }
+    .offer-text p {
+        font-size: 20px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 95%;
+    }
+    form input {
+        padding: 16px 10px;
+        border-radius: 5px;
+    }
+    .btn-box button {
+        padding: 16px 20px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    hr {
+        width: 90%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-row {
+        text-align: center;
+    }
+    .footer-info {
+        flex-wrap: nowrap;
+    }
+    .coyright-text {
+        flex-basis: 50%;
+    }
+    .footer-logo {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:867px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 715px;
+    }
+    .header-text {
+        max-width: 80%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        font-size: 35px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 16px 32px;
+    }
+    .social-icons img {
+        width: 20px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 30px;
+    }
+    .about-text p {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .about-text h2 {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 18px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .feature-col p {
+        font-size: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 90%;
+    }
+    .course-text h1 {
+        font-size: 25px;
+    }
+    .course-text p {
+        font-size: 18px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 24px;
+    }
+    .offer-text p {
+        font-size: 20px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    form input {
+        padding: 16px 10px;
+        border-radius: 5px;
+    }
+    .btn-box button {
+        padding: 16px 20px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    hr {
+        width: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-row {
+        text-align: center;
+    }
+    .footer-info {
+        justify-content: space-around;
+    }
+}
+
+@media screen and (min-width:868px) and (max-width:991px) {
+    #header {
+        background-image: none;
+        padding-bottom: 5rem;
+    }
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 825px;
+    }
+    .header-text {
+        max-width: 80%;
+        padding-top: 6rem;
+    }
+    .header-text h1 {
+        width: 400px;
+        font-size: 35px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    .menu-icon-1,
+    .menu-icon-2 {
+        width: 30px;
+        right: 30px;
+    }
+    .common-btn {
+        padding: 16px 32px;
+    }
+    .social-icons img {
+        width: 20px;
+        margin: 0 auto 15px;
+    }
+    .about-left-col {
+        flex-basis: 100%;
+    }
+    .about-right-col {
+        flex-basis: 100%;
+    }
+    .about-text {
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 20px;
+    }
+    .about-text h1 {
+        font-size: 30px;
+    }
+    .about-text p {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .about-text h2 {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .about-text h3 {
+        font-size: 18px;
+    }
+    .feature-row {
+        margin-left: 50px;
+    }
+    .feature-col {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+    }
+    .feature-col p {
+        font-size: 20px;
+    }
+    .course-left-col {
+        flex-basis: 100%;
+    }
+    .course-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .course-text {
+        width: 90%;
+    }
+    .course-text h1 {
+        font-size: 25px;
+    }
+    .course-text p {
+        font-size: 18px;
+    }
+    .offer-left-col {
+        flex-basis: 100%;
+    }
+    .offer-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .offer-text {
+        max-width: 85%;
+        padding-right: 50px;
+    }
+    .offer-text h1 {
+        font-size: 24px;
+    }
+    .offer-text p {
+        font-size: 20px;
+    }
+    .contact-left-col {
+        flex-basis: 100%;
+    }
+    .contact-right-col {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    form {
+        max-width: 100%;
+    }
+    form input {
+        padding: 16px 10px;
+        border-radius: 5px;
+    }
+    .btn-box button {
+        padding: 16px 20px;
+    }
+    .footer-left-col {
+        flex-basis: 100%;
+    }
+    .footer-right-col {
+        flex-basis: 100%;
+    }
+    hr {
+        width: 100%;
+    }
+    .links-title {
+        flex-basis: 50%;
+        margin-bottom: 25px;
+    }
+    .footer-row {
+        text-align: center;
+    }
+    .footer-info {
+        justify-content: space-around;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1050px) {
+    .container {
+        margin-left: 50px;
+        margin-right: 50px;
+        width: 950px;
+    }
+    .header-text {
+        max-width: 40%;
+    }
+    .header-text h1 {
+        font-size: 23px;
+        line-height: 1.5;
+    }
+    .header-text p {
+        font-size: 13px;
+        line-height: 1.3;
+    }
+    .about-text {
+        max-width: 100%;
+        padding-right: 80px;
+    }
+    .offer-text {
+        max-width: 100%;
+        padding-right: 80px;
+    }
+}
